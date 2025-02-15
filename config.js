@@ -6,7 +6,7 @@ _  ______   _____ _____ _____ _   _
 |_|\_\____|   |_| |_____\____|_| |_|
 
 ANYWAY, YOU MUST GIVE CREDIT TO MY CODE WHEN COPY IT
-CONTACT ME HERE +237656520674
+CONTACT ME HERE +221778503433
 YT: KermHackTools
 Github: Kgtech-cmr
 */
@@ -19,12 +19,12 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "PUT YOUR SESSION ID HERE",
+SESSION_ID: process.env.SESSION_ID || "TVwmFAJa#A_zz0KawIw9yU78ilTKIifohKekVB_DCb3NFBSsPRgI",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-MODE: process.env.MODE || "private",
-AUTO_VOICE: process.env.AUTO_VOICE || "false",
-AUTO_STICKER: process.env.AUTO_STICKER || "false",
-AUTO_REPLY: process.env.AUTO_REPLY || "false",
+MODE: process.env.MODE || "public",
+AUTO_VOICE: process.env.AUTO_VOICE || "true",
+AUTO_STICKER: process.env.AUTO_STICKER || "true",
+AUTO_REPLY: process.env.AUTO_REPLY || "true",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/yw2ty2.jpeg",
 ALIVE_MSG: process.env.ALIVE_MSG || "_Hi 💁🏽 How Can I Assist You. Am alive Now._",
 ANTI_LINK: process.env.ANTI_LINK || "true",
